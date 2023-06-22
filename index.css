@@ -26,8 +26,8 @@ a{
 .head{
    display: flex;
    flex-direction: column;
+   margin-left: 120px;
    justify-content: center;
-   padding-left: 120px;
    font-size: 25px;
    margin-top: -400px;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
